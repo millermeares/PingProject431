@@ -1,0 +1,9 @@
+192.168.0.1: average is 10, loss is + (0%
+174.109.176.1: average is 31, loss is + (0%
+174.111.105.48: average is 24, loss is + (0%
+24.25.41.106: average is 18, loss is + (0%
+24.93.64.184: average is 30, loss is + (0%
+66.109.6.80: average is 31, loss is + (0%
+66.109.5.117: average is 54, loss is + (0%
+199.59.151.92: average is 27, loss is + (0%
+104.244.42.1: average is 76, loss is + (0%

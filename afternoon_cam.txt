@@ -1,0 +1,20 @@
+192.168.0.1: average is 9, loss is + (0%
+174.109.176.1: average is 22, loss is + (0%
+174.111.105.50: average is 19, loss is + (0%
+24.25.41.108: average is 19, loss is + (0%
+24.93.64.186: average is 27, loss is + (0%
+Error at 66.109.6.34
+66.109.5.125: average is 76, loss is + (0%
+Error at 4.68.37.73
+4.69.143.198: average is 105, loss is + (0%
+212.187.216.238: average is 104, loss is + (0%
+146.97.35.193: average is 105, loss is + (3%
+146.97.33.62: average is 111, loss is + (0%
+146.97.33.29: average is 104, loss is + (0%
+146.97.35.246: average is 111, loss is + (0%
+146.97.41.38: average is 116, loss is + (0%
+193.60.88.6: average is 120, loss is + (0%
+193.60.88.6: average is 105, loss is + (0%
+128.232.128.6: average is 115, loss is + (0%
+128.232.128.10: average is 110, loss is + (0%
+128.232.132.8: average is 117, loss is + (0%
